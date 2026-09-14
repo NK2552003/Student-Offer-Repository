@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If this catalog helped your work, please cite it using these metadata."
+title: "Student Offers Repository"
+type: dataset
+authors:
+  - name: "Student Offers Repository contributors"
+version: 1.1.0
+date-released: 2026-08-21
+license: CC-BY-4.0
+abstract: >-
+  A source-linked catalog of free software, student plans, credits, and trials
+  for students, with eligibility, region, verification, and billing notes.
+keywords:
+  - student offers
+  - education
+  - student discounts
+  - developer tools
+  - software credits

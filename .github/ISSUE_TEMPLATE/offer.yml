@@ -1,0 +1,81 @@
+name: New student offer
+description: Propose a verified free plan, credit, trial, or education benefit
+title: "[New offer]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping students. Use an official provider or authoritative program source. Never upload student documents or account details.
+  - type: input
+    id: provider
+    attributes:
+      label: Provider and offer
+      description: Name the provider and the exact plan, product, credit, or trial.
+      placeholder: Example Provider — Student Pro plan
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Official source
+      description: Paste the direct provider or authoritative program URL.
+      placeholder: https://provider.example/education
+    validations:
+      required: true
+  - type: input
+    id: checked
+    attributes:
+      label: Date checked
+      description: Use YYYY-MM-DD.
+      placeholder: 2026-08-21
+    validations:
+      required: true
+  - type: textarea
+    id: benefit
+    attributes:
+      label: Benefit and duration
+      description: State exactly what is free and for how long.
+    validations:
+      required: true
+  - type: textarea
+    id: eligibility
+    attributes:
+      label: Eligibility, region, and verification
+      description: Include school level, country limits, age rules, and verification method.
+    validations:
+      required: true
+  - type: dropdown
+    id: card
+    attributes:
+      label: Payment method required
+      options:
+        - "No"
+        - "Yes"
+        - Unknown — confirm at activation
+    validations:
+      required: true
+  - type: textarea
+    id: renewal
+    attributes:
+      label: Renewal or expiry behavior
+      description: Explain what happens when the free period or credit ends.
+    validations:
+      required: true
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Submission checks
+      options:
+        - label: The link is not an affiliate, referral, shortened, or user-specific URL.
+          required: true
+        - label: I did not include private student, account, or payment information.
+          required: true
+        - label: I disclosed any relationship I have with the provider in the notes below.
+          required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes or conflict-of-interest disclosure
+      description: Add deadlines, limitations, or your relationship to the provider. Write "None" if not applicable.
+    validations:
+      required: true

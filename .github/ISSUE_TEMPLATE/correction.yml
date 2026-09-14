@@ -1,0 +1,59 @@
+name: Correct or end an offer
+description: Report changed terms, an expired offer, a dead link, or a catalog error
+title: "[Correction]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for non-sensitive corrections. Report phishing, leaked secrets, or malicious links privately as described in SECURITY.md.
+  - type: input
+    id: location
+    attributes:
+      label: Catalog location
+      description: Name the file, provider, and row or section.
+      placeholder: offers/FREE-STUDENT-OFFERS.md — Example Provider
+    validations:
+      required: true
+  - type: dropdown
+    id: correction_type
+    attributes:
+      label: What changed?
+      options:
+        - Offer ended or no longer accepts activations
+        - Benefit or duration changed
+        - Eligibility, region, or verification changed
+        - Billing or auto-renewal changed
+        - Official link moved or is broken
+        - Catalog text is inaccurate or unclear
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Current official source
+      description: Paste the official page that supports the correction.
+      placeholder: https://provider.example/terms
+    validations:
+      required: true
+  - type: input
+    id: observed
+    attributes:
+      label: Date observed
+      description: Use YYYY-MM-DD.
+      placeholder: 2026-08-21
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Correction details
+      description: Explain the current terms and what the repository should say instead.
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy check
+      options:
+        - label: I removed student documents, private email addresses, account IDs, credentials, and payment information.
+          required: true
