@@ -6,7 +6,7 @@ it, how long does it last, and could it charge me later?”
 ## Canonical fields
 
 | Field | Required | Rule |
-|---|---:|---|
+| --- | ---: | --- |
 | Provider | Yes | Use the provider's public product or organization name |
 | Benefit | Yes | State the concrete plan, credit, product, or allowance |
 | Duration | Yes | Use a fixed period, `while eligible`, or an honest unknown |

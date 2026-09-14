@@ -14,7 +14,7 @@ Source: [GitHub Student Developer Pack](https://education.github.com/pack), revi
 ## Core GitHub and cloud benefits
 
 | Partner | Benefit shown in the official pack | Duration / allowance |
-|---|---|---:|
+| --- | --- | ---: |
 | GitHub | GitHub Pro is no longer listed as a Pack-exclusive benefit; the Pack's headline account perk is now Copilot Student (see the next row) | While verified as a student |
 | GitHub Copilot | Copilot Student with unlimited code completions, an AI-credit allowance, and limited chat/agent usage through auto model selection | Current student-plan terms |
 | GitHub Codespaces | Pro-level Codespaces access | While pack benefit is active |
@@ -32,7 +32,7 @@ Source: [GitHub Student Developer Pack](https://education.github.com/pack), revi
 ## IDEs, developer tools, and testing
 
 | Partner | Benefit shown in the official pack | Duration / allowance |
-|---|---|---:|
+| --- | --- | ---: |
 | JetBrains | Professional IDE subscription | Renewable annually |
 | Termius | Pro and Team features | While a student |
 | Bootstrap Studio | Desktop license | While a student |
@@ -68,7 +68,7 @@ Source: [GitHub Student Developer Pack](https://education.github.com/pack), revi
 ## Security, monitoring, and infrastructure
 
 | Partner | Benefit shown in the official pack | Duration / allowance |
-|---|---|---:|
+| --- | --- | ---: |
 | Datadog | Pro account for 10 servers | 2 years |
 | New Relic | Student New Relic plan, listed as a $300/month value | While a student |
 | Simple Analytics | Starter plan with 100,000 page views/month | 1 year |
@@ -81,7 +81,7 @@ Source: [GitHub Student Developer Pack](https://education.github.com/pack), revi
 ## Domains, websites, design, and productivity
 
 | Partner | Benefit shown in the official pack | Duration / allowance |
-|---|---|---:|
+| --- | --- | ---: |
 | Namecheap | One `.me` domain plus one SSL certificate | 1 year each |
 | Name.com | One select domain from 25+ extensions such as `.live`, `.studio`, `.software`, `.app`, or `.dev` | Pack terms |
 | .TECH | One standard `.TECH` domain | 1 year |
@@ -101,7 +101,7 @@ Source: [GitHub Student Developer Pack](https://education.github.com/pack), revi
 ## Learning, interview preparation, and hardware
 
 | Partner | Benefit shown in the official pack | Duration / allowance |
-|---|---|---:|
+| --- | --- | ---: |
 | DataCamp | Subscription access | 3 months |
 | Boot.dev | Complete interactive backend/devops membership | 3 months |
 | Codédex | Codédex Club | 6 months |

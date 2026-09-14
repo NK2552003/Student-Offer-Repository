@@ -5,7 +5,7 @@ This page prioritizes offers that an Indian college or school student can reason
 ## Confirmed or broadly applicable
 
 | Offer | India-relevant benefit | Verification | Billing warning | Official source |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | Google AI Plus for students | 12 months free; 400 GB storage and increased Gemini limits. Google says the non-U.S. offer is available in 140+ markets, excluding a short list that does not include India | SheerID; eligible college student; consumer Google account | Payment method required; redeem by 2026-12-31; auto-renews at the local price unless cancelled | [Google announcement](https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/) |
 | GitHub Student Developer Pack | Copilot Student plus developer tools, courses, domains, credits, and partner trials (GitHub Pro is no longer a listed Pack-exclusive benefit) | School email and/or enrollment evidence through GitHub Education | Individual partner renewals vary | [GitHub Pack](https://education.github.com/pack) |
 | JetBrains Student Pack | IntelliJ IDEA, PyCharm, Android-focused tools, and the rest of the eligible professional IDE suite | Supported academic email, official document route, or another supported verification path | Re-verify annually; educational use | [JetBrains Students](https://www.jetbrains.com/academy/student-pack/) |
@@ -27,7 +27,7 @@ This page prioritizes offers that an Indian college or school student can reason
 These providers publish education programs without promising that every Indian institution or email domain will be recognized. Apply through the official page and treat a successful verification screen as the final availability check.
 
 | Offer | Free benefit | Verification / access | Important limitation | Official source |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | Adobe Substance 3D | Designer, Modeler, Painter, Sampler, and Stager for 12 months, renewable | Higher-education email or documents | Noncommercial education use; no monthly Assets | [Substance 3D Education](https://substance3d.adobe.com/education/) |
 | Onshape Education | Browser CAD Student Plan | Student eligibility check | Education and noncommercial use | [Onshape Education](https://www.onshape.com/en/education/plans) |
 | Ansys Student | Free engineering-simulation packages | Student download/account | Product and model-size limits apply; now hosted under Synopsys following the Synopsys–Ansys acquisition | [Ansys Students](https://ansys.synopsys.com/academic/students) |
@@ -53,14 +53,14 @@ These providers publish education programs without promising that every Indian i
 ## India entertainment trials and student prices
 
 | Service | Current India page snapshot | After promotion | Official source |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Apple Music Student | First month free for new subscribers; then ₹69/month; Apple TV access included while on the student subscription | Auto-renewing subscription; student eligibility up to four years subject to verification | [Apple Music India](https://www.apple.com/in/apple-music/) |
 | Spotify Premium Student | ₹69 total for the first two months for eligible new users; this is discounted, not free | ₹69/month; annual eligibility and later conversion to standard pricing | [Spotify India Student](https://www.spotify.com/in-en/student/) |
 
 ## Common offers that are not currently general India student offers
 
 | Offer | Why not to rely on it in India |
-|---|---|
+| --- | --- |
 | OpenAI Codex $100 student credit | Official eligibility is limited to current university students residing in the U.S. or Canada when claiming |
 | Granola 12-month student plan | Official program is limited to accredited universities in the U.S., UK, and Canada |
 | Handshake Google AI Plus summer offer | The Handshake version is U.S./Canada-only; use Google's newer worldwide student offer instead |

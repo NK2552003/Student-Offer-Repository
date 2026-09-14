@@ -5,7 +5,7 @@ Quick reference for benefits that expire, convert to paid access, or use a finit
 ## Direct student trials and credits
 
 | Offer | What is free | Free period / expiry | Payment method | What happens afterward | Claim |
-|---|---|---:|---|---|---|
+| --- | --- | ---: | --- | --- | --- |
 | Google AI student plan | Google AI Pro in the U.S.; Google AI Plus in most other supported markets | 12 months; redeem by 2026-12-31 | Required | Auto-renews at the standard local price unless cancelled | [Official offer](https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/) |
 | OpenAI Codex | $100 in Codex credits | 12 months from grant | Not stated as required on the student page | Unused credits expire | [Claim details](https://developers.openai.com/community/students) |
 | Kiro | 1,000 credits per month | 12 months | No card stated in launch note | Student grant ends; ordinary plan rules apply | [Kiro Students](https://kiro.dev/students/) |
@@ -35,7 +35,7 @@ Quick reference for benefits that expire, convert to paid access, or use a finit
 These offers are current provider trials, but they are **not student-exclusive**. Payment requirements and regional terms can differ at checkout.
 
 | Offer | Trial | Payment method | Renewal / limitation | Official source |
-|---|---:|---|---|---|
+| --- | ---: | --- | --- | --- |
 | Amazon Prime for young adults/students — U.S. **(verify in-browser)** | 6 months at $0 for eligible ages 18–24 and students | Required | Auto-renews at the published young-adult price unless cancelled; the page returned a 503 bot-block, so terms could not be re-confirmed automatically — the link is live | [Amazon Prime U.S.](https://www.amazon.com/amazonprime?primeCampaignId=studentWlpPrimeRedir) |
 | Amazon Prime Student — UK **(verify in-browser)** | 6 months | Required | Auto-renews at the published student price unless cancelled; the page returned a 503 bot-block, so terms could not be re-confirmed automatically — the link is live | [Amazon Prime Student UK](https://www.amazon.co.uk/amazonprime?primeCampaignId=studentWlpPrimeRedir) |
 | Adobe Creative Cloud Pro (20+ apps) (formerly "All Apps") | 7 days | Required | Billing begins after the trial at the student price: US$19.99/month in year one, then US$39.99/month in year two | [Adobe Creative Cloud Students](https://www.adobe.com/education/students/creativecloud.html) |
@@ -51,7 +51,7 @@ These offers are current provider trials, but they are **not student-exclusive**
 Activate these only from the [official GitHub Student Developer Pack](https://education.github.com/pack). Partner benefits can change between GitHub verification and activation.
 
 | Partner | Free benefit | Period |
-|---|---|---:|
+| --- | --- | ---: |
 | Heroku | $13 platform credit each month | 24 months |
 | DataCamp | Subscription access | 3 months |
 | Boot.dev | Complete interactive membership | 3 months |

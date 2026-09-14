@@ -15,7 +15,7 @@ Do not upload more personal data than the verification flow requests. Redact unr
 ## Verification routes
 
 | Route | Typical providers | What to expect |
-|---|---|---|
+| --- | --- | --- |
 | Academic email link | Notion, iAsk, Beautiful.ai | A message sent to your school inbox; international domains may need manual review |
 | SheerID | Google, Kiro, Spotify, some other plans | Institution search plus document upload if instant verification fails |
 | GitHub Education | GitHub and GitHub Pack partners | GitHub account, school selection, academic email, and enrollment evidence |

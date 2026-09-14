@@ -13,7 +13,7 @@ overlap so students can browse either by provider or by expiry risk.
 ## Start here
 
 | What you want | Open |
-|---|---|
+| --- | --- |
 | Long-term free student plans | [Free student offers](offers/FREE-STUDENT-OFFERS.md) |
 | Time-limited trials and credits | [Trials and credits](offers/TRIALS-CREDITS.md) |
 | Benefits inside GitHub's pack | [GitHub Student Developer Pack](offers/GITHUB-STUDENT-PACK.md) |
@@ -26,7 +26,7 @@ overlap so students can browse either by provider or by expiry risk.
 ## Best offers to claim first
 
 | Offer | Headline benefit | Important condition |
-|---|---|---|
+| --- | --- | --- |
 | [Google AI student plan](https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/) | Google AI Pro in the U.S. or AI Plus in 140+ other markets for 12 months | Redeem by 2026-12-31; payment method; auto-renews unless cancelled |
 | [GitHub Student Developer Pack](https://education.github.com/pack) | GitHub Pro plus developer, cloud, domain, design, and learning benefits | Student verification; partner terms change frequently |
 | [JetBrains Student Pack](https://www.jetbrains.com/academy/student-pack/) | Professional JetBrains IDEs at no cost | Annual re-verification; educational use |
@@ -60,7 +60,7 @@ overlap so students can browse either by provider or by expiry risk.
 ## Status legend
 
 | Label | Meaning |
-|---|---|
+| --- | --- |
 | **Free while eligible** | No fixed end date, but re-verification may be required |
 | **Free period** | Premium access ends after a stated duration |
 | **Credit** | A monetary or usage balance; expiry and overage rules matter |

@@ -5,7 +5,7 @@
 ## Risk levels
 
 | Risk | Pattern | What to do |
-|---|---|---|
+| --- | --- | --- |
 | Low | No card; automatically downgrades or stops | Still export data and note the expiry date |
 | Medium | Card required; fixed subscription trial | Cancel auto-renew immediately if the provider preserves trial access after cancellation |
 | High | Usage-based cloud/API account with a card | Add budgets and alerts, cap usage, and delete resources before credit expiry |

@@ -6,7 +6,7 @@ be customized after publishing to GitHub.
 ## Student-facing content
 
 | Path | Purpose |
-|---|---|
+| --- | --- |
 | `README.md` | Main catalog index, status legend, and project overview |
 | `offers/FREE-STUDENT-OFFERS.md` | Free plans available while eligible |
 | `offers/TRIALS-CREDITS.md` | Limited periods, credits, and usage allowances |
@@ -20,7 +20,7 @@ be customized after publishing to GitHub.
 ## Contribution and community files
 
 | Path | Purpose |
-|---|---|
+| --- | --- |
 | `CONTRIBUTING.md` | Evidence, privacy, writing, and pull-request rules |
 | `CODE_OF_CONDUCT.md` | Community behavior and enforcement policy |
 | `SECURITY.md` | Private reporting for harmful links, secrets, or data leaks |
@@ -35,7 +35,7 @@ be customized after publishing to GitHub.
 ## Maintenance and publishing files
 
 | Path | Purpose |
-|---|---|
+| --- | --- |
 | `docs/OFFER-SCHEMA.md` | Canonical catalog fields and status vocabulary |
 | `docs/STYLE-GUIDE.md` | Markdown, language, links, privacy, and accessibility |
 | `docs/MAINTENANCE.md` | Review cadence and status-change procedure |
@@ -53,7 +53,7 @@ be customized after publishing to GitHub.
 ## Legal and metadata files
 
 | Path | Purpose |
-|---|---|
+| --- | --- |
 | `LICENSE.md` | CC BY 4.0 grant and exclusions |
 | `DISCLAIMER.md` | Accuracy, billing, independence, and trademark notice |
 | `CITATION.cff` | Citation metadata for GitHub and research tools |

@@ -7,7 +7,7 @@ Entries marked **(unverified 2026-09-11)** sit behind a bot-block (HTTP 403), a 
 ## AI, research, and writing
 
 | Provider | Free benefit | Duration | Eligibility and verification | Region | Card / renewal note | Official source |
-|---|---|---:|---|---|---|---|
+| --- | --- | ---: | --- | --- | --- | --- |
 | Google Gemini | Google AI Pro in the U.S. (5 TB storage and higher Gemini limits) or Google AI Plus elsewhere (400 GB and higher limits) | 12 months | Eligible college students; SheerID | U.S.; AI Plus in 140+ markets, including eligible markets outside the U.S. | Payment method required; redeem by 2026-12-31; auto-renews unless cancelled | [Google announcement](https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/) |
 | OpenAI Codex | $100 in ChatGPT credits for Codex | Credits expire after 12 months | Current degree-granting university student; verification | U.S. and Canada; must reside there when claiming | One grant per student | [Codex for Students](https://developers.openai.com/community/students) |
 | Kiro | 1,000 Kiro credits each month with IDE and CLI agent access | 12 months | Eligible university students; SheerID and eligible-school rules | Check school list | No card according to the launch note; monthly credits | [Kiro Students](https://kiro.dev/students/) |
@@ -26,7 +26,7 @@ Entries marked **(unverified 2026-09-11)** sit behind a bot-block (HTTP 403), a 
 ## Coding, cloud, and app development
 
 | Provider | Free benefit | Duration | Eligibility and verification | Region | Card / renewal note | Official source |
-|---|---|---:|---|---|---|---|
+| --- | --- | ---: | --- | --- | --- | --- |
 | GitHub | Student Developer Pack, headlined by **Copilot Student** (unlimited completions, an AI-credit allowance, limited chat/agent access) plus partner benefits | While verified; partner durations vary | Student age 13+; school proof via GitHub Education | Broad international availability | GitHub Pro is no longer a listed Pack-exclusive benefit — many former Pro features are now free for everyone on GitHub; the Pack's headline value is Copilot Student and the partner tools. Inspect each activation screen | [GitHub Pack](https://education.github.com/pack) |
 | JetBrains **(unverified 2026-09-11)** | Student Pack with professional IDEs such as IntelliJ IDEA and PyCharm | Renewable annually | Student verification via school email, documents, GitHub, or other supported method | Broad international availability | Educational license; re-verify annually; page is bot-blocked/JS-only, confirm terms in-browser | [JetBrains Student Pack](https://www.jetbrains.com/academy/student-pack/) |
 | Microsoft Azure | $100 credit, 20+ popular services for 12 months, and 65+ always-free services | Credit/allowances for 12 months | Full-time university student; main offer is 18+ | Supported Azure markets | No credit card required | [Azure for Students](https://azure.microsoft.com/free/students/) |
@@ -46,7 +46,7 @@ Entries marked **(unverified 2026-09-11)** sit behind a bot-block (HTTP 403), a 
 ## Design, engineering, and creative software
 
 | Provider | Free benefit | Duration | Eligibility and verification | Region | Card / renewal note | Official source |
-|---|---|---:|---|---|---|---|
+| --- | --- | ---: | --- | --- | --- | --- |
 | Figma **(unverified 2026-09-11)** | Figma and FigJam education access with professional paid tools | While eligible, subject to verification | Verified student or educator | Broad availability | Set up or join an education team after verification; page is bot-blocked (403), confirm terms in-browser | [Figma Education](https://www.figma.com/education/) |
 | Miro | Unlimited boards, one workspace, unlimited projects, up to 10 team members, and 100 Miro AI credits/month/team | 2 years | Student application | 5,000+ universities and schools represented; check yours | No published student charge on the education page | [Miro Education](https://miro.com/education-whiteboard/) |
 | Autodesk **(unverified 2026-09-11)** | One-user access to AutoCAD, Fusion, Revit, Maya, 3ds Max, and other education products | 1 year, renewable | Eligible student at a qualified institution; status verification | Broad availability with product/country differences | Educational purposes only; no commercial or for-profit use; page is bot-blocked (403), confirm terms in-browser | [Autodesk Education](https://www.autodesk.com/education/edu-software/overview) |
@@ -69,7 +69,7 @@ Entries marked **(unverified 2026-09-11)** sit behind a bot-block (HTTP 403), a 
 ## Productivity, data, and learning
 
 | Provider | Free benefit | Duration | Eligibility and verification | Region | Card / renewal note | Official source |
-|---|---|---:|---|---|---|---|
+| --- | --- | ---: | --- | --- | --- | --- |
 | Notion | Education Plan for a one-member workspace; up to 100 guests. A separate free tier also exists for student organizations, with unlimited members | While eligible | Accredited college/university; recognized education email and WHED institution; K–12 is explicitly excluded from the Education Plan | Broad availability | Must use school email; individual workspace only; Notion AI is not promised by the standard education page | [Notion for Education](https://www.notion.com/help/notion-for-education) |
 | Microsoft 365 Education | Office 365 A1 web apps and education services | While institution/account is eligible | Eligible school email | Eligible institutions | Institution eligibility controls access; do not confuse with the separate 50%-off Personal plan | [Microsoft Education](https://www.microsoft.com/education/products/office) |
 | SAS | SAS Viya for Learners and Viya Workbench for Learners (both free); OnDemand for Academics is no longer listed on the current academic-software page | Ongoing for learning | Students and educators; some products require academic use or course setup | Availability may vary by region | Academic, noncommercial use conditions apply | [SAS Academic Software](https://www.sas.com/en_us/learn/academic-programs/software.html) |
@@ -93,14 +93,14 @@ Found during a dedicated new-offer discovery pass. Confirmed on each provider's 
 ### Student-targeted
 
 | Provider | Free benefit | Duration | Eligibility and verification | Card / renewal note | Official source |
-|---|---|---:|---|---|---|
+| --- | --- | ---: | --- | --- | --- |
 | GitHub Copilot (Student) | Copilot Student plan, well beyond the general Copilot Free tier (2,000 completions + 50 chats/month) | While verified as a student | Student verification via GitHub Education, same flow as the Student Pack | No card | [GitHub Copilot](https://github.com/features/copilot) |
 | Affinity (by Canva) | The full unified Affinity app (Photo + Designer + Publisher in one) | Permanent — not a trial | Free for all individuals via a Canva account; no student verification needed | No card; in-app AI features still require a paid Canva plan | [Affinity](https://www.affinity.studio/) |
 
 ### Open free tiers (students included, no verification needed)
 
 | Provider | Free plan | Key limits | Official source |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Obsidian | Free forever for personal use | Sync ($4/mo) and Publish ($8/site/mo) carry a 40% education discount | [Obsidian pricing](https://obsidian.md/pricing) |
 | Zotero | Free, open-source reference manager | 300 MB free storage; paid storage upgrades optional | [Zotero](https://www.zotero.org/) |
 | Overleaf | Free plan | Unlimited projects, 1 collaborator/project, basic AI (5 uses/day) | [Overleaf plans](https://www.overleaf.com/user/subscription/plans) |
