@@ -34,11 +34,11 @@
         "required_status_checks": [
           {
             "context": "Markdown lint",
-            "integration_id": -1
+            "integration_id": 15368
           },
           {
             "context": "Link check",
-            "integration_id": -1
+            "integration_id": 15368
           }
         ],
         "strict_required_status_checks_policy": true
