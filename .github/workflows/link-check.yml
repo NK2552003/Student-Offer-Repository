@@ -27,6 +27,6 @@ jobs:
             --max-retries 2
             --timeout 30
             --accept 200,204,206,403,429
-            --exclude 'https://www\.adobe\.com/education/(express/|students/creativecloud\.html)|https://www\.amazon\.co\.uk/amazonprime\?primeCampaignId=studentWlpPrimeRedir'
+            --exclude 'https://www\.adobe\.com/education/(express/|students/creativecloud\.html)|https://www\.amazon\.(co\.uk|com)/amazonprime\?primeCampaignId=studentWlpPrimeRedir'
             './**/*.md'
           fail: true
