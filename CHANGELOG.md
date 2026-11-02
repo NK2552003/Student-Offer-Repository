@@ -3,6 +3,10 @@
 Material catalog and repository changes are recorded here. Offer providers may
 change terms between repository releases.
 
+## 2026-11-02
+
+- Add Kilobat Pro student offer, with eligibility, school-email renewal, and regional caveat.
+
 ## 2026-09-11
 
 Six-agent verification pass across the catalog (AI/research, entertainment/
