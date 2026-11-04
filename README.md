@@ -6,7 +6,7 @@ credits, and trials for students.
 > Last web review: **2026-08-21 (UTC)**. Offers can change without notice. The
 > provider's current official page always wins.
 
-Current snapshot: **60 direct free/education listings**, **83 GitHub Student
+Current snapshot: **61 direct free/education listings**, **83 GitHub Student
 Developer Pack entries**, and **66 trial/credit rows**. Some rows intentionally
 overlap so students can browse either by provider or by expiry risk.
 
